@@ -42,4 +42,4 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-[![npm](https://img.shields.io/npm/v/react-word-spell-checker)](https://www.npmjs.com/package/react-word-spell-checker)]
+[![npm](https://img.shields.io/npm/v/react-word-spell-checker)](https://www.npmjs.com/package/react-word-spell-checker)

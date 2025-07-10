@@ -42,9 +42,4 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil803&show_icons=true&locale=en&layout=compact" alt="muzammil803" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=![image](https://github.com/user-attachments/assets/caca4125-6e9c-47d5-a558-c26ef9587c97)&show_icons=true&locale=en" alt="muzammil803" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil803&" alt="muzammil803" /></p>
+[![npm](https://img.shields.io/npm/v/react-word-spell-checker)](https://www.npmjs.com/package/react-word-spell-checker)]
